@@ -1,0 +1,9 @@
+{
+  "remoteURL": "git@github.com:misaka-maples/Obsidian.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
