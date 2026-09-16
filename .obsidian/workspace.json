@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260916095924.png"
+                "file": "assets/Pasted image 20260916095924.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260916095924"
@@ -185,10 +185,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2d89a0e46067d11f",
+  "active": "1b7605eaf8d56258",
   "lastOpenFiles": [
     "周会/9-16.md",
-    "Pasted image 20260916095924.png",
+    "assets/Pasted image 20260916095924.png",
     "遥操作开发/开发遥操作问题记录.md",
     "遥操作开发/双目适配方式.md",
     "遥操作开发/遥操作启动方式.md",
