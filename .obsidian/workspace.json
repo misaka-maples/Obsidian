@@ -11,15 +11,31 @@
             "id": "2d89a0e46067d11f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20260916095924.png"
+                "file": "遥操作开发/数据平台.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260916095924"
+              "icon": "lucide-file",
+              "title": "数据平台"
+            }
+          },
+          {
+            "id": "52662449f68b4ab3",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,17 +201,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1b7605eaf8d56258",
+  "active": "52662449f68b4ab3",
   "lastOpenFiles": [
-    "周会/9-16.md",
-    "assets/Pasted image 20260916095924.png",
+    "未命名.md",
+    "未命名.base",
+    "遥操作开发/数据平台.md",
     "遥操作开发/开发遥操作问题记录.md",
     "遥操作开发/双目适配方式.md",
+    "未命名/电脑问题.md",
+    "周会/9-16周会汇报.md",
+    "assets/Pasted image 20260916095924.png",
     "遥操作开发/遥操作启动方式.md",
     "遥操作开发/openarmx启动控制方式.md",
-    "未命名/电脑问题.md",
     "遥操作开发/推理与数据采集  腰部复原.md",
-    "遥操作开发/数据平台.md",
     "未命名/遥操问题讨论.md",
     "未命名/欢迎.md",
     "周会/8-20阶段性研发与优化总结.md",
@@ -205,7 +223,6 @@
     "视频界面不跟随头部动.md",
     "agy启动   其他问题.md",
     "未命名.canvas",
-    "未命名.base",
     "assets/Pasted image 20260820100712.png",
     "assets/截图 2026-08-18 15-37-55.png",
     "assets",
