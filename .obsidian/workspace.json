@@ -13,29 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "遥操作开发/数据平台.md",
+                "file": "遥操作开发/开发遥操作问题记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据平台"
-            }
-          },
-          {
-            "id": "52662449f68b4ab3",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "title": "开发遥操作问题记录"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,11 +155,34 @@
             }
           },
           {
-            "id": "219c69e4c865ae0a",
+            "id": "d5258b6338f73294",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "遥操作开发/开发遥操作问题记录.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "a1b99e2869a46e95",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "87a3714f7dca71d1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,11 +191,12 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -198,30 +208,38 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "audio-recorder:开始/结束录音": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false
     }
   },
-  "active": "52662449f68b4ab3",
+  "active": "2d89a0e46067d11f",
   "lastOpenFiles": [
+    "问题.md",
+    "述职报告/未命名.md",
+    "述职报告/ppt整体逻辑.md",
+    "未命名 1.md",
     "未命名.md",
-    "未命名.base",
-    "遥操作开发/数据平台.md",
     "遥操作开发/开发遥操作问题记录.md",
-    "遥操作开发/双目适配方式.md",
-    "未命名/电脑问题.md",
+    "屏幕截图 2026-09-21 185132.png",
+    "述职报告",
     "周会/9-16周会汇报.md",
-    "assets/Pasted image 20260916095924.png",
     "遥操作开发/遥操作启动方式.md",
     "遥操作开发/openarmx启动控制方式.md",
     "遥操作开发/推理与数据采集  腰部复原.md",
+    "视频界面不跟随头部动.md",
+    "遥操作开发/数据平台.md",
+    "未命名.base",
+    "遥操作开发/双目适配方式.md",
+    "未命名/电脑问题.md",
+    "assets/Pasted image 20260916095924.png",
     "未命名/遥操问题讨论.md",
     "未命名/欢迎.md",
     "周会/8-20阶段性研发与优化总结.md",
-    "未命名 1",
     "周会/8-27遥操作开发进度.md",
     "周会/9-2.md",
-    "视频界面不跟随头部动.md",
-    "agy启动   其他问题.md",
     "未命名.canvas",
     "assets/Pasted image 20260820100712.png",
     "assets/截图 2026-08-18 15-37-55.png",
@@ -237,7 +255,6 @@
     "assets/Pasted image 20260901153110.png",
     "assets/Pasted image 20260827090554.png",
     "assets/Pasted image 20260827090315.png",
-    "截图 2026-06-09 16-50-55.png",
     "料箱拣选项目.md",
     "2026-08-20.md",
     "未命名",
