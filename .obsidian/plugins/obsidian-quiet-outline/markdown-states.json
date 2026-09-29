@@ -58,15 +58,15 @@
   },
   "遥操作开发/开发遥操作问题记录.md": {
     "expandedKeys": [],
-    "scroll": 36.829383886255926,
+    "scroll": 40.87118193891102,
     "cursor": {
       "from": {
-        "line": 62,
-        "ch": 29
+        "line": 65,
+        "ch": 0
       },
       "to": {
-        "line": 62,
-        "ch": 29
+        "line": 65,
+        "ch": 0
       }
     }
   },
@@ -82,11 +82,11 @@
   "述职报告/未命名.md": {
     "cursor": {
       "from": {
-        "line": 43,
+        "line": 7,
         "ch": 0
       },
       "to": {
-        "line": 43,
+        "line": 7,
         "ch": 0
       }
     },
@@ -95,24 +95,25 @@
   "述职报告/ppt整体逻辑.md": {
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 82
+        "line": 4,
+        "ch": 20
       },
       "to": {
-        "line": 2,
-        "ch": 82
+        "line": 4,
+        "ch": 20
       }
-    }
+    },
+    "scroll": 0
   },
   "未命名.md": {
     "scroll": 182.07063802083334,
     "cursor": {
       "from": {
-        "line": 197,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 197,
+        "line": 0,
         "ch": 0
       }
     }
@@ -129,5 +130,34 @@
         "ch": 0
       }
     }
+  },
+  "2026-09-28.md": {
+    "scroll": 0
+  },
+  "EasyWebClipper/BiliDown - 哔哩哔哩视频在线解析下载.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    }
+  },
+  "述职报告/演讲稿.md": {
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "scroll": 164.14583333333334
   }
 }
